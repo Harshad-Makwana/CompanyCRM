@@ -1,36 +1,36 @@
 <p><b>Run Composer</b></p>
 <p>1. composer install</p>
 
-Create Database
-2. php artisan mysql:createdb company_crm
+<p><b>Create Database</b></p>
+<p>2. php artisan mysql:createdb company_crm</p>
 
 
-Run Migrate
-3. php artisan migrate
+<p><b>Run Migrate</b></p>
+<p>3. php artisan migrate</p>
 
-[Link Storage]
-4. php artisan storage:link
+<p><b>Link Storage</b></p>
+<p>4. php artisan storage:link</p>
 
-Run Seeder
-5. php artisan db:seed –class=CreateUsersSeeder
-
-
-Install npm(if not install npm)
-6. sudo apt-get install curl
-
-7. curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
-
-8. sudo apt-get install nodejs
+<p><b>Run Seeder</b></p>
+<p>5. php artisan db:seed –class=CreateUsersSeeder</p>
 
 
-Install Auth
-9. composer require laravel/ui
+<p><b>Install npm(if not install npm)</b></p>
+<p>6. sudo apt-get install curl</p>
 
-10. php artisan ui bootstrap –auth
+<p>7. curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -</p>
 
-11. npm install
+<p>8. sudo apt-get install nodejs</p>
 
-12. npm run dev
+
+<p><b>Install Auth</b></p>
+<p>9. composer require laravel/ui</p>
+
+<p>10. php artisan ui bootstrap –auth</p>
+
+<p>11. npm install</p>
+
+<p>12. npm run dev</p>
 
 
 
