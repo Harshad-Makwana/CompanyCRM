@@ -1,5 +1,5 @@
-Run Composer
-1. composer install
+<p><b>Run Composer</b></p>
+<p>1. composer install</p>
 
 Create Database
 2. php artisan mysql:createdb company_crm
