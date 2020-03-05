@@ -12,7 +12,7 @@
 <p>4. php artisan storage:link</p>
 
 <p><b>Run Seeder</b></p>
-<p>5. php artisan db:seed –class=CreateUsersSeeder</p>
+<p>5. php artisan db:seed --class=CreateUsersSeeder</p>
 
 
 <p><b>Install npm(if not install npm)</b></p>
